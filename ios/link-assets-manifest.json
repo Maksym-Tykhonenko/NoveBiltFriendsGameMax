@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/SF-Pro-Display-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/SF-Pro-Display-Medium.otf",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "NoveBiltFriendsGameSrc/NoveBiltFriendsGameAssets/NoveBiltFriendsGameFonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    }
+  ]
+}
